@@ -10,7 +10,7 @@ Poorly organized list of resources, tools, and models for NLP in Georgian
 	- [jnz/electra-ka-fake-news-tagging · Hugging Face](https://huggingface.co/jnz/electra-ka-fake-news-tagging)
 	- more on jnz's profile
 
-## Teams
+## Tools
 - [ანბანი ჻ Anbani Georgia · GitHub](https://github.com/anbani)
 	- "Collection of Web and AI tools designed to equip Georgian Language and Alphabet with the challenges of digital age ჻ ᲐᲜᲑᲐᲜᲘ"
 	- [nano](https://github.com/Anbani/nano) - bare-bones Georgian script converter
