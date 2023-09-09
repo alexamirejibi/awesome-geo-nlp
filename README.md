@@ -20,7 +20,7 @@ Poorly organized list of resources, tools, and models for NLP in Georgian
 	- [word-embeddings](https://github.com/Anbani/word-embeddings)
 	- [anbani.db](https://github.com/Anbani/anbani.db) - Various Georgian datasets
 - [screeve · GitHub](https://github.com/screeve)
-	- [lemmatizer](https://github.com/screeve/lemmatizer - Lemmatization functionality for Georgian language.
+	- [lemmatizer](https://github.com/screeve/lemmatizer) - Lemmatization functionality for Georgian language.
 	- [postagger](https://github.com/screeve/postagger) - Part-of-speech tagging functionality for Georgian language.
 	- [embeddings](https://github.com/screeve/embeddings) - pre-trained embeddings for Georgian language
 
