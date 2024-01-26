@@ -5,6 +5,10 @@
 - [Davit6174/georgian-distilbert-mlm · Hugging Face](https://huggingface.co/Davit6174/georgian-distilbert-mlm)
 - [jnz/electra-ka · Hugging Face](https://huggingface.co/jnz/electra-ka)
 	- More on jnz's profile
+- My models:
+	- [XLM-Roberta-Base fine-tuned on WikiANN for NER](https://huggingface.co/alexamiredjibi/xlm-roberta-base-ka-ner)
+ 	- [Floret (fasttext adaptation) word embedding model](https://huggingface.co/alexamiredjibi/floret-ka-mc4) trained on a part of the MC4 dataset
+  	- [XLM-Roberta-Base for masked language modeling](https://huggingface.co/alexamiredjibi/xlm-roberta-base-ka-newstitles), fine-tuned on a private dataset of Georgian news titles.
 
 ## Tools
 Some projects working on Georgian NLP tools:
@@ -23,7 +27,7 @@ Some projects working on Georgian NLP tools:
 	- [embeddings](https://github.com/screeve/embeddings) - pre-trained embeddings for Georgian language
 
 ## Datasets
-- [WikiANN](https://huggingface.co/datasets/wikiann/viewer/ka) - NER dataset
+- [WikiANN](https://huggingface.co/datasets/wikiann/viewer/ka) - NER dataset.
 - [MC4](https://huggingface.co/datasets/mc4) is a cleaned version of Common Crawl and contains 15+ GB of Georgian text. I've found it fairly useful in my experiments.
 
 ## Linguistic resources
