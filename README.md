@@ -20,7 +20,7 @@ Some projects working on Georgian NLP tools:
 	- [anbani.js](https://github.com/Anbani/anbani.js) - Multifunctional javascript toolkit for Georgian Alphabet - Anbani
 	- [word-embeddings](https://github.com/Anbani/word-embeddings)
 	- [anbani.db](https://github.com/Anbani/anbani.db) - Various Georgian datasets
-- https://qartnlp.iliauni.edu.ge/ s
+- https://qartnlp.iliauni.edu.ge/
 - [screeve · GitHub](https://github.com/screeve)
 	- [lemmatizer](https://github.com/screeve/lemmatizer) - Lemmatization functionality for Georgian language.
 	- [postagger](https://github.com/screeve/postagger) - Part-of-speech tagging functionality for Georgian language.
