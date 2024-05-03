@@ -2,6 +2,7 @@
 (Stuff I've encountered so far)
 
 ## Models
+- [BAAI/bge-m3](https://huggingface.co/BAAI/bge-m3) - In my testing, this is currently the best sentence embedding model available for Georgian.
 - [Davit6174/georgian-distilbert-mlm · Hugging Face](https://huggingface.co/Davit6174/georgian-distilbert-mlm)
 - [jnz/electra-ka · Hugging Face](https://huggingface.co/jnz/electra-ka)
 	- More on jnz's profile
